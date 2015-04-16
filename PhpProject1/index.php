@@ -10,17 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
-        <p>clone git</p>
+       fghgjkfdshjhjsdfhgkshdfkjghklsdfhgkjshdfklj
     </body>
 </html>
