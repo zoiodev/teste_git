@@ -10,9 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-    <p>teste tag 1 digão</p>
+    <p>teste tag 1 digão AAA</p>
 
-    <p>Pipo 1234567890</p>
 
     
     </body>
